@@ -1,2 +1,2 @@
-# git-sda.demo3
+# git-sda-demo3
 Yet another repo
