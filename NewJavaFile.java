@@ -1,6 +1,6 @@
 public class NewjavaFile {
     public static void main(String[] args) {
-        //System.out.println("Hello World");
+        System.out.println("Hello World");
         // variable name = value ;
 
        /* int myNumber = 10;
